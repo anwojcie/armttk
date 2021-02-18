@@ -1,0 +1,1 @@
+Write-host "from pwsh with love"
